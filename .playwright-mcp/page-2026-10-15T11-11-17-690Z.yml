@@ -1,0 +1,309 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e4]:
+    - navigation "Primary" [ref=f1e6]:
+      - list [ref=f1e7]:
+        - listitem [ref=f1e8]:
+          - link "Chat" [ref=f1e9] [cursor=pointer]:
+            - /url: /yoodle-new/secure/chat
+        - listitem [ref=f1e13]:
+          - link "Calendar" [ref=f1e14] [cursor=pointer]:
+            - /url: /yoodle-new/secure/calendar
+        - listitem [ref=f1e18]:
+          - button "Nofies" [ref=f1e19] [cursor=pointer]
+      - button "Switch to violet dark" [ref=f1e24] [cursor=pointer]
+      - generic [ref=f1e29]:
+        - generic [aria-hidden] [ref=f1e30]: AK
+        - button "Account menu" [ref=f1e32] [cursor=pointer]
+    - main [ref=f1e36]:
+      - article [ref=f1e38]:
+        - generic [ref=f1e42]:
+          - generic [ref=f1e44]:
+            - generic [ref=f1e45]:
+              - search [ref=f1e47]:
+                - combobox "Search conversations and messages" [ref=f1e53]: from Alejandro Rojas about notes
+              - button "New conversation" [ref=f1e55] [cursor=pointer]
+            - list "Channels" [ref=f1e62]:
+              - listitem [ref=f1e63]:
+                - strong [ref=f1e65] [cursor=pointer]: DH-HUB
+              - listitem [ref=f1e66]:
+                - strong [ref=f1e68] [cursor=pointer]: Yoodle test
+              - listitem [ref=f1e69]:
+                - strong [ref=f1e71] [cursor=pointer]: Yoodle
+            - generic [ref=f1e73]:
+              - heading [level=2] [ref=f1e74]:
+                - button "Anil's Activities" [expanded] [ref=f1e75] [cursor=pointer]
+              - list "Anil's Activities" [ref=f1e81]:
+                - listitem [ref=f1e82]:
+                  - button "Open business media for this channel" [ref=f1e84] [cursor=pointer]:
+                    - generic [ref=f1e94]: Business Media
+            - generic [ref=f1e95]:
+              - generic [ref=f1e96]:
+                - group "Conversation filters" [ref=f1e97]:
+                  - button "All" [pressed] [ref=f1e99] [cursor=pointer]
+                  - button "Chats" [ref=f1e101] [cursor=pointer]
+                  - button "Threads" [ref=f1e103] [cursor=pointer]
+                  - button "Favorites" [ref=f1e105] [cursor=pointer]
+                  - button "Mark all as read" [ref=f1e107] [cursor=pointer]
+                - generic [ref=f1e113]:
+                  - button "Sections" [ref=f1e114] [cursor=pointer]
+                  - generic [aria-hidden]:
+                    - generic: Show sections
+              - status
+              - generic [ref=f1e856]:
+                - img "New conversation" [ref=f1e858]
+                - generic [ref=f1e865]:
+                  - paragraph [ref=f1e866]: New conversation
+                  - paragraph [ref=f1e867]: New Chat
+                - button "Discard" [ref=f1e868] [cursor=pointer]
+              - list "Conversations" [ref=f1e115]:
+                - generic:
+                  - generic:
+                    - listitem [ref=f1e116]:
+                      - generic [ref=f1e119] [cursor=pointer]:
+                        - img "Chetan Patil, Offline" [ref=f1e121]:
+                          - generic [aria-hidden] [ref=f1e123]: CP
+                        - generic [ref=f1e127]:
+                          - generic [ref=f1e128]: Chetan Patil
+                          - generic [ref=f1e129]:
+                            - generic: 04:40 PM
+                            - generic:
+                              - generic:
+                                - button "Expand"
+                                - generic [aria-hidden]:
+                                  - generic: Expand
+                              - generic:
+                                - button "More options"
+                                - generic [aria-hidden]:
+                                  - generic: More options
+                    - listitem [ref=f1e130]:
+                      - generic [ref=f1e133] [cursor=pointer]:
+                        - img "Anil, Aastha, Chethan and Gourav" [ref=f1e135]
+                        - generic [ref=f1e142]:
+                          - generic [ref=f1e143]:
+                            - generic [ref=f1e144]: Anil, Aastha, Chethan and Gourav
+                            - generic [ref=f1e145]:
+                              - generic: 03:39 PM
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e148]:
+                            - generic [ref=f1e149]: "Chethan:"
+                            - generic [ref=f1e150]: vfd
+                    - listitem [ref=f1e151]:
+                      - generic [ref=f1e154] [cursor=pointer]:
+                        - img "testing" [ref=f1e156]:
+                          - generic [ref=f1e157]: C
+                        - generic [ref=f1e161]:
+                          - generic [ref=f1e162]:
+                            - generic [ref=f1e163]: testing
+                            - generic [ref=f1e164]:
+                              - generic: 01:29 PM
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e167]:
+                            - generic [ref=f1e168]: "You:"
+                            - generic [ref=f1e169]: Thread Meeting
+                      - img "Favorite"
+                    - listitem [ref=f1e170]:
+                      - generic [ref=f1e173] [cursor=pointer]:
+                        - img "Anil Kakamari, Away" [ref=f1e175]:
+                          - generic [aria-hidden] [ref=f1e177]: AK
+                        - generic [ref=f1e180]:
+                          - generic [ref=f1e181]:
+                            - generic [ref=f1e182]: Anil Kakamari
+                            - generic [ref=f1e183]:
+                              - generic: 01:04 PM
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e184]: These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here.
+                    - listitem [ref=f1e188]:
+                      - generic [ref=f1e191] [cursor=pointer]:
+                        - img "Anil, Aastha, Chethan and Gourav" [ref=f1e193]:
+                          - generic [ref=f1e194]:
+                            - generic [ref=f1e438]: A
+                            - generic [ref=f1e198]: C
+                        - generic [ref=f1e199]:
+                          - generic [ref=f1e200]:
+                            - generic [ref=f1e201]: Anil, Aastha, Chethan and Gourav
+                            - generic [ref=f1e202]:
+                              - generic: 01:00 PM
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e205]:
+                            - generic [ref=f1e206]: "Anil:"
+                            - generic [ref=f1e207]: I can suggest a username and strong password for creating a new IRCTC account.
+                    - listitem [ref=f1e208]:
+                      - generic [ref=f1e211] [cursor=pointer]:
+                        - img "Gourav Raghuwanshi, Out of office" [ref=f1e213]:
+                          - generic [aria-hidden] [ref=f1e439]: GR
+                        - generic [ref=f1e217]:
+                          - generic [ref=f1e218]:
+                            - generic [ref=f1e219]: Gourav Raghuwanshi
+                            - generic [ref=f1e220]:
+                              - generic: 12:41 PM
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e221]: Hi
+                    - listitem [ref=f1e225]:
+                      - generic [ref=f1e228] [cursor=pointer]:
+                        - img "Chethan, Swagnik, Kiev" [ref=f1e230]:
+                          - generic [ref=f1e231]:
+                            - generic [ref=f1e873]: C
+                            - generic [ref=f1e235]: K
+                        - generic [ref=f1e236]:
+                          - generic [ref=f1e237]:
+                            - generic [ref=f1e238]: Chethan, Swagnik, Kiev
+                            - generic [ref=f1e239]:
+                              - generic: Mon
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e242]:
+                            - generic [ref=f1e243]: "Chethan:"
+                            - generic [ref=f1e244]: vdfv
+                    - listitem [ref=f1e245]:
+                      - generic [ref=f1e248] [cursor=pointer]:
+                        - img "Ajith Perumal, Offline" [ref=f1e250]:
+                          - generic [aria-hidden] [ref=f1e252]: AP
+                        - generic [ref=f1e255]:
+                          - generic [ref=f1e256]:
+                            - generic [ref=f1e257]: Ajith Perumal
+                            - generic [ref=f1e258]:
+                              - generic: Mon
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e259]: Ajith we need some time now
+                    - listitem [ref=f1e263]:
+                      - generic [ref=f1e266] [cursor=pointer]:
+                        - img "nghnghnn" [ref=f1e268]:
+                          - generic [ref=f1e269]: C
+                        - generic [ref=f1e274]:
+                          - generic [ref=f1e275]:
+                            - generic [ref=f1e276]: nghnghnn
+                            - generic [ref=f1e277]:
+                              - generic: Mon
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e280]:
+                            - generic [ref=f1e281]: "You:"
+                            - generic [ref=f1e282]: Gourav joke
+                    - listitem [ref=f1e283]:
+                      - generic [ref=f1e286] [cursor=pointer]:
+                        - img "New thread" [ref=f1e288]
+                        - generic [ref=f1e295]:
+                          - generic [ref=f1e296]:
+                            - generic [ref=f1e297]: New thread
+                            - generic [ref=f1e298]:
+                              - generic: Mon
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+                          - generic [ref=f1e301]:
+                            - generic [ref=f1e302]: "Sagar:"
+                            - generic [ref=f1e303]: ihbwdCOUWDHCIUBJWDC
+          - generic [ref=f1e304]:
+            - separator "Resize panels" [ref=f1e305]
+            - button "Open companion panel" [ref=f1e307] [cursor=pointer]
+          - region "Conversation area" [ref=f1e313]:
+            - generic [ref=f1e314]:
+              - button "Maximize" [ref=f1e316] [cursor=pointer]
+              - generic [ref=f1e322]:
+                - tablist "Open tabs" [ref=f1e323]:
+                  - tab "New conversation" [selected] [ref=f1e874] [cursor=pointer]:
+                    - button [aria-hidden]
+                  - tab "Chetan Patil" [ref=f1e442] [cursor=pointer]:
+                    - button [aria-hidden]
+                  - tab "Chethan, Swagnik, Kiev Chethan, Swagnik, Kiev" [ref=f1e324] [cursor=pointer]:
+                    - generic "Chethan, Swagnik, Kiev" [ref=f1e327]:
+                      - img "Chethan, Swagnik, Kiev" [ref=f1e328]:
+                        - generic [ref=f1e329]:
+                          - generic [ref=f1e878]: C
+                          - generic [ref=f1e333]: K
+                    - button [aria-hidden]
+                  - tab "testing testing" [ref=f1e335] [cursor=pointer]:
+                    - generic "testing" [ref=f1e338]:
+                      - img "testing" [ref=f1e339]:
+                        - generic [ref=f1e340]: C
+                    - button [aria-hidden]
+                - button "New Tab" [ref=f1e364] [cursor=pointer]
+                - button "See More" [ref=f1e369] [cursor=pointer]
+                - button "Tab options" [ref=f1e374] [cursor=pointer]
+            - generic [ref=f1e879]:
+              - generic [ref=f1e880]:
+                - generic [ref=f1e882]:
+                  - paragraph [ref=f1e883]: "TO:"
+                  - textbox "Enter name or group" [ref=f1e888]
+                - status
+                - status [ref=f1e889]
+                - log "Messages" [ref=f1e890]
+                - status
+              - generic [ref=f1e893]:
+                - status [ref=f1e894]
+                - textbox "Write your message…" [ref=f1e896]
+                - status
+                - generic [ref=f1e898]:
+                  - button "Emoji, GIFs and stickers" [ref=f1e899] [cursor=pointer]
+                  - button [disabled] [ref=f1e904]:
+                    - img "Send" [ref=f1e905]
+              - status [ref=f1e909]
+  - log "Notifications"

@@ -1,0 +1,1106 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - navigation "Primary" [ref=f5e6]:
+        - list [ref=f5e7]:
+          - listitem [ref=f5e8]:
+            - link "Chat" [ref=f5e9] [cursor=pointer]:
+              - /url: /yoodle-new/secure/chat
+          - listitem [ref=f5e13]:
+            - link "Calendar" [ref=f5e14] [cursor=pointer]:
+              - /url: /yoodle-new/secure/calendar
+          - listitem [ref=f5e18]:
+            - button "Nofies" [ref=f5e19] [cursor=pointer]
+        - button "Switch to violet dark" [ref=f5e24] [cursor=pointer]
+        - generic [ref=f5e29]:
+          - generic [aria-hidden] [ref=f5e30]: AK
+          - button "Account menu" [ref=f5e32] [cursor=pointer]
+      - main [ref=f5e36]:
+        - article [ref=f5e38]:
+          - generic [ref=f5e40]:
+            - generic [ref=f5e42]:
+              - generic [ref=f5e43]:
+                - generic [active] [ref=f5e44]:
+                  - search [ref=f5e45]:
+                    - combobox "Search conversations and messages" [expanded] [ref=f5e51]: Chetan
+                    - generic [ref=f5e332]:
+                      - button "Enter" [ref=f5e333] [cursor=pointer]
+                      - button "Clear search" [ref=f5e340] [cursor=pointer]
+                  - listbox "Search results" [ref=f5e347]:
+                    - generic:
+                      - generic:
+                        - group "Threads" [ref=f5e349]:
+                          - option "Nonsensical Text Interpretation Nonsensical Text Interpretation Expand in nghnghnn" [ref=f5e351] [cursor=pointer]:
+                            - generic [ref=f5e352]:
+                              - img "Nonsensical Text Interpretation" [ref=f5e354]
+                              - generic [ref=f5e361]:
+                                - generic [ref=f5e362]:
+                                  - generic [ref=f5e363]: Nonsensical Text Interpretation
+                                  - generic [ref=f5e364]:
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e365]:
+                                  - generic [ref=f5e366]: in
+                                  - generic [ref=f5e367]: nghnghnn
+                          - option "Testing Responses and Interactions Testing Responses and Interactions Expand in nghnghnn" [ref=f5e368] [cursor=pointer]:
+                            - generic [ref=f5e369]:
+                              - img "Testing Responses and Interactions" [ref=f5e371]
+                              - generic [ref=f5e378]:
+                                - generic [ref=f5e379]:
+                                  - generic [ref=f5e380]: Testing Responses and Interactions
+                                  - generic [ref=f5e381]:
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e382]:
+                                  - generic [ref=f5e383]: in
+                                  - generic [ref=f5e384]: nghnghnn
+                          - button "+13 more" [ref=f5e385] [cursor=pointer]
+                        - group "Groups & Meetings" [ref=f5e390]:
+                          - option "nghnghnn nghnghnn Expand Sagar Sagar , Ajith Ajith , Chetan Chetan , +7 more" [ref=f5e392] [cursor=pointer]:
+                            - generic [ref=f5e393]:
+                              - img "nghnghnn" [ref=f5e395]
+                              - generic [ref=f5e402]:
+                                - generic [ref=f5e403]:
+                                  - generic [ref=f5e404]: nghnghnn
+                                  - generic [ref=f5e405]:
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e406]:
+                                  - generic [ref=f5e407]:
+                                    - img "Sagar" [ref=f5e408]:
+                                      - generic [aria-hidden] [ref=f5e410]: S
+                                    - generic [ref=f5e412]: Sagar
+                                    - text: ","
+                                  - generic [ref=f5e413]:
+                                    - img "Ajith" [ref=f5e414]:
+                                      - generic [aria-hidden] [ref=f5e416]: A
+                                    - generic [ref=f5e418]: Ajith
+                                    - text: ","
+                                  - generic [ref=f5e419]:
+                                    - img "Chetan" [ref=f5e420]:
+                                      - generic [aria-hidden] [ref=f5e422]: C
+                                    - generic [ref=f5e424]: Chetan
+                                    - text: ","
+                                  - generic [ref=f5e425]: +7 more
+                        - group "Messages" [ref=f5e426]:
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/7 12:50 PM Expand Chetan Chetan: Bug" [ref=f5e428] [cursor=pointer]':
+                            - generic [ref=f5e429]:
+                              - img "Testing Responses and Interactions" [ref=f5e431]
+                              - generic [ref=f5e438]:
+                                - generic [ref=f5e439]:
+                                  - generic [ref=f5e440]: Testing Responses and Interactions
+                                  - generic [ref=f5e441]:
+                                    - time: 10/7 12:50 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e443]:
+                                  - img "Chetan" [ref=f5e444]:
+                                    - generic [aria-hidden] [ref=f5e446]: C
+                                  - generic [ref=f5e448]: "Chetan: Bug"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/7 12:50 PM Expand Chetan Chetan: Bug" [ref=f5e449] [cursor=pointer]':
+                            - generic [ref=f5e450]:
+                              - img "Testing Responses and Interactions" [ref=f5e452]
+                              - generic [ref=f5e459]:
+                                - generic [ref=f5e460]:
+                                  - generic [ref=f5e461]: Testing Responses and Interactions
+                                  - generic [ref=f5e462]:
+                                    - time: 10/7 12:50 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e464]:
+                                  - img "Chetan" [ref=f5e465]:
+                                    - generic [aria-hidden] [ref=f5e467]: C
+                                  - generic [ref=f5e469]: "Chetan: Bug"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/7 12:47 PM Expand Chetan Chetan: Testing" [ref=f5e470] [cursor=pointer]':
+                            - generic [ref=f5e471]:
+                              - img "Testing Responses and Interactions" [ref=f5e473]
+                              - generic [ref=f5e480]:
+                                - generic [ref=f5e481]:
+                                  - generic [ref=f5e482]: Testing Responses and Interactions
+                                  - generic [ref=f5e483]:
+                                    - time: 10/7 12:47 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e485]:
+                                  - img "Chetan" [ref=f5e486]:
+                                    - generic [aria-hidden] [ref=f5e488]: C
+                                  - generic [ref=f5e490]: "Chetan: Testing"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/7 12:47 PM Expand Chetan Chetan: tst" [ref=f5e491] [cursor=pointer]':
+                            - generic [ref=f5e492]:
+                              - img "Testing Responses and Interactions" [ref=f5e494]
+                              - generic [ref=f5e501]:
+                                - generic [ref=f5e502]:
+                                  - generic [ref=f5e503]: Testing Responses and Interactions
+                                  - generic [ref=f5e504]:
+                                    - time: 10/7 12:47 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e506]:
+                                  - img "Chetan" [ref=f5e507]:
+                                    - generic [aria-hidden] [ref=f5e509]: C
+                                  - generic [ref=f5e511]: "Chetan: tst"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/6 06:21 PM Expand Chetan Chetan: csvfcz" [ref=f5e512] [cursor=pointer]':
+                            - generic [ref=f5e513]:
+                              - img "Testing Responses and Interactions" [ref=f5e515]
+                              - generic [ref=f5e522]:
+                                - generic [ref=f5e523]:
+                                  - generic [ref=f5e524]: Testing Responses and Interactions
+                                  - generic [ref=f5e525]:
+                                    - time: 10/6 06:21 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e527]:
+                                  - img "Chetan" [ref=f5e528]:
+                                    - generic [aria-hidden] [ref=f5e530]: C
+                                  - generic [ref=f5e532]: "Chetan: csvfcz"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/6 06:20 PM Expand Chetan Chetan: DVESAWfesarfv" [ref=f5e533] [cursor=pointer]':
+                            - generic [ref=f5e534]:
+                              - img "Testing Responses and Interactions" [ref=f5e536]
+                              - generic [ref=f5e543]:
+                                - generic [ref=f5e544]:
+                                  - generic [ref=f5e545]: Testing Responses and Interactions
+                                  - generic [ref=f5e546]:
+                                    - time: 10/6 06:20 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e548]:
+                                  - img "Chetan" [ref=f5e549]:
+                                    - generic [aria-hidden] [ref=f5e551]: C
+                                  - generic [ref=f5e553]: "Chetan: DVESAWfesarfv"
+                          - 'option "Testing Responses and Interactions Testing Responses and Interactions 10/6 06:20 PM Expand Chetan Chetan: DVEVFEV" [ref=f5e554] [cursor=pointer]':
+                            - generic [ref=f5e555]:
+                              - img "Testing Responses and Interactions" [ref=f5e557]
+                              - generic [ref=f5e564]:
+                                - generic [ref=f5e565]:
+                                  - generic [ref=f5e566]: Testing Responses and Interactions
+                                  - generic [ref=f5e567]:
+                                    - time: 10/6 06:20 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e569]:
+                                  - img "Chetan" [ref=f5e570]:
+                                    - generic [aria-hidden] [ref=f5e572]: C
+                                  - generic [ref=f5e574]: "Chetan: DVEVFEV"
+                          - 'option "nghnghnn nghnghnn 10/6 06:19 PM Expand Chetan Chetan: testingGGGGGGGGGGGGGGGGGGGGG Amar Amar: replied" [ref=f5e575] [cursor=pointer]':
+                            - generic [ref=f5e576]:
+                              - img "nghnghnn" [ref=f5e578]
+                              - generic [ref=f5e585]:
+                                - generic [ref=f5e586]:
+                                  - generic [ref=f5e587]: nghnghnn
+                                  - generic [ref=f5e588]:
+                                    - time: 10/6 06:19 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e589]:
+                                  - generic [ref=f5e590]:
+                                    - img "Chetan" [ref=f5e591]:
+                                      - generic [aria-hidden] [ref=f5e593]: C
+                                    - generic [ref=f5e595]: "Chetan:"
+                                    - generic [ref=f5e596]: testingGGGGGGGGGGGGGGGGGGGGG
+                                  - generic [ref=f5e597]:
+                                    - img "Amar" [ref=f5e598]:
+                                      - generic [aria-hidden] [ref=f5e600]: A
+                                    - generic [ref=f5e602]: "Amar: replied"
+                          - 'option "nghnghnn nghnghnn 10/6 06:19 PM Expand Chetan Chetan: testingGGGGGGGGGGGGGGGGGGGGG" [ref=f5e603] [cursor=pointer]':
+                            - generic [ref=f5e604]:
+                              - img "nghnghnn" [ref=f5e606]
+                              - generic [ref=f5e613]:
+                                - generic [ref=f5e614]:
+                                  - generic [ref=f5e615]: nghnghnn
+                                  - generic [ref=f5e616]:
+                                    - time: 10/6 06:19 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e618]:
+                                  - img "Chetan" [ref=f5e619]:
+                                    - generic [aria-hidden] [ref=f5e621]: C
+                                  - generic [ref=f5e623]: "Chetan: testingGGGGGGGGGGGGGGGGGGGGG"
+                          - 'option "nghnghnn nghnghnn 10/6 06:18 PM Expand Swagnik Swagnik: vds Chetan Chetan: wegrestr" [ref=f5e624] [cursor=pointer]':
+                            - generic [ref=f5e625]:
+                              - img "nghnghnn" [ref=f5e627]
+                              - generic [ref=f5e634]:
+                                - generic [ref=f5e635]:
+                                  - generic [ref=f5e636]: nghnghnn
+                                  - generic [ref=f5e637]:
+                                    - time: 10/6 06:18 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e638]:
+                                  - generic [ref=f5e639]:
+                                    - img "Swagnik" [ref=f5e640]:
+                                      - generic [aria-hidden] [ref=f5e642]: S
+                                    - generic [ref=f5e644]: "Swagnik:"
+                                    - generic [ref=f5e645]: vds
+                                  - generic [ref=f5e646]:
+                                    - img "Chetan" [ref=f5e647]:
+                                      - generic [aria-hidden] [ref=f5e649]: C
+                                    - generic [ref=f5e651]: "Chetan: wegrestr"
+                          - option [ref=f5e652] [cursor=pointer]:
+                            - generic [ref=f5e653]:
+                              - img "nghnghnn" [ref=f5e655]
+                              - generic [ref=f5e662]:
+                                - generic [ref=f5e663]:
+                                  - generic [ref=f5e664]: nghnghnn
+                                  - generic [ref=f5e665]:
+                                    - time: 10/1 01:02 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e667]:
+                                  - img "Chetan" [ref=f5e668]:
+                                    - generic [aria-hidden] [ref=f5e670]: C
+                                  - generic [ref=f5e672]: "Chetan: Cricket Cricket is one of the most popular sports in the world , especially in India. It is played between two teams, with each team usually having eleven players. The game is played with a bat and a ball on a large field with a pitch in the centre. Cricket is an exciting and interesting sport . It requires teamwork, concentration, skill, and physical fitness. The main forms of cricket are Test matches, One Day Internationals, and Twenty20 matches . Each format has its own rules and style of play. In India, cricket is loved by people of all ages. Many children enjoy playing cricket with their friends in parks, streets, and playgrounds. Professional cricketers inspire young people to work hard and develop discipline and sportsmanship. Cricket also teaches us important values such as teamwork, patience, determination, and respect for others. Winning a match is enjoyable , but learning from mistakes and accepting defeat gracefully are equally . In conclusion, cricket is not only a sport but also a source of entertainment and inspiration for millions of people. It brings people together and encourages us to stay active, disciplined, and hardworking."
+                          - option [ref=f5e673] [cursor=pointer]:
+                            - generic [ref=f5e674]:
+                              - img "nghnghnn" [ref=f5e676]
+                              - generic [ref=f5e683]:
+                                - generic [ref=f5e684]:
+                                  - generic [ref=f5e685]: nghnghnn
+                                  - generic [ref=f5e686]:
+                                    - time: 10/1 01:02 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e688]:
+                                  - img "Chetan" [ref=f5e689]:
+                                    - generic [aria-hidden] [ref=f5e691]: C
+                                  - generic [ref=f5e693]: "Chetan: Cricket Cricket is one of the most popular sports in the world , especially in India. It is played between two teams, with each team usually having eleven players. The game is played with a bat and a ball on a large field with a pitch in the centre. Cricket is an exciting and interesting sport . It requires teamwork, concentration, skill, and physical fitness. The main forms of cricket are Test matches, One Day Internationals, and Twenty20 matches . Each format has its own rules and style of play. In India, cricket is loved by people of all ages. Many children enjoy playing cricket with their friends in parks, streets, and playgrounds. Professional cricketers inspire young people to work hard and develop discipline and sportsmanship. Cricket also teaches us important values such as teamwork, patience, determination, and respect for others. Winning a match is enjoyable , but learning from mistakes and accepting defeat gracefully are equally . In conclusion, cricket is not only a sport but also a source of entertainment and inspiration for millions of people. It brings people together and encourages us to stay active, disciplined, and hardworking."
+                          - option [ref=f5e694] [cursor=pointer]:
+                            - generic [ref=f5e695]:
+                              - img "nghnghnn" [ref=f5e697]
+                              - generic [ref=f5e704]:
+                                - generic [ref=f5e705]:
+                                  - generic [ref=f5e706]: nghnghnn
+                                  - generic [ref=f5e707]:
+                                    - time: 9/21 04:16 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e709]:
+                                  - img "Chetan" [ref=f5e710]:
+                                    - generic [aria-hidden] [ref=f5e712]: C
+                                  - generic [ref=f5e714]: "Chetan: .npmrc Copy Remove spring.application.name=board-nr-persistence server.port=9252 eureka.instance.prefer-ip-address=true logging.file.name=board-nr-persistence.log logging.level.root=info # =============================== # = DATA SOURCE # =============================== # Set here configurations for the database connection # Connection url for the database spring.datasource.url=jdbc:mysql://${SET_FUSION_MYSQL_HOST}:${SET_FUSION_MYSQL_PORT}/board_nr_persistence spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect use.schema.command=USE `board_nr_persistence_%s` spring.datasource.username=${SET_FUSION_MYSQL_USER} spring.datasource.password=${SET_FUSION_MYSQL_PASSWORD} # Keep the connection alive if idle for a long time (needed in production) spring.datasource.testWhileIdle=true spring.datasource.validationQuery=SELECT 1 # HikariCP settings # spring.datasource.hikari.* #60 sec spring.datasource.hikari.connection-timeout=60000 spring.datasource.hikari.minimum-idle=10 spring.datasource.hikari.maximum-pool-size=100 spring.datasource.hikari.idle-timeout=3000 # Connection url for the audit database spring.data.mongodb.uri=mongodb://${SET_FUSION_MONGO_HOST}:${SET_FUSION_MONGO_PORT}/fusion_audit_store # =============================== # = JPA / HIBERNATE # =============================== # Show or not log for each sql query spring.jpa.show-sql=false # Hibernate ddl auto (create, create-drop, update): with \"update\" the database # schema will be automatically updated accordingly to java entities found in # the project spring.jpa.properties.hibernate.hbm2ddl.auto=update spring.jpa.properties.javax.persistence.create-database-schemas=true #spring .jpa.properties.hibernate.show_sql=true #spring .jpa.properties.hibernate.use_sql_comments=true #spring .jpa.properties.hibernate.format_sql=true spring.jpa.properties.hibernate.use-new-id-generator-mappings=false # Naming strategy spring.jpa.properties.hibernate.physical_naming_strategy=org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy spring.jpa.properties.hibernate.implicit_naming_strategy=org.hibernate.boot.model.naming.ImplicitNamingStrategyJpaCompliantImpl spring.jackson.mapper.accept_case_insensitive_properties=true spring.jpa.properties.hibernate.jdbc.batch_size=2000 spring.jpa.properties.hibernate.order_inserts=true spring.jpa.properties.hibernate.order_updates=true spring.jpa.properties.hibernate.batch_versioned_data=true spring.main.allow-circular-references=true application.path.lb= application.paths.allowed=/**/v3/swagger-ui/**,/**/v3/api-docs/**,/**/actuator/info,/**/actuator/health,/**/v3/swagger-ui/swagger-ui-bundle.js # =============================== # = JETTY # =============================== jetty.threadPool.minThreads=2 jetty.threadPool.maxThreads=10 fusion.event.service.name=board-nr-persistence fusion.event.producer.configuration.des-event-topic.partition-count=1 fusion.event.producer.configuration.des-event-topic.partition-key-expression=1 server.forward-headers-strategy=framework springdoc.swagger-ui.path=/v3/swagger-ui.html aoplib.aspect.enabled=true pi.common.search.service.name=board pi.common.search.dynamic.mapping.indices=workflowdemo,workflowintro, workflow-execution-runtime, workflow-execution-history, wf_analytics_error, caseprototype07v2nested, users pi.common.search.es.host=${SET_FUSION_ES8_HOST:10.10.2.45} pi.common.search.es.port=${SET_FUSION_ES8_PORT:9200} pi.common.search.es.scheme=${SET_FUSION_ES8_SCHEMA:http} pi.common.search.max.results.limit=1000 management.endpoint.env.show-values=ALWAYS management.health.elasticsearch.enabled=false"
+                          - 'option "nghnghnn nghnghnn 9/21 04:16 PM Expand Chetan Chetan: s" [ref=f5e715] [cursor=pointer]':
+                            - generic [ref=f5e716]:
+                              - img "nghnghnn" [ref=f5e718]
+                              - generic [ref=f5e725]:
+                                - generic [ref=f5e726]:
+                                  - generic [ref=f5e727]: nghnghnn
+                                  - generic [ref=f5e728]:
+                                    - time: 9/21 04:16 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e730]:
+                                  - img "Chetan" [ref=f5e731]:
+                                    - generic [aria-hidden] [ref=f5e733]: C
+                                  - generic [ref=f5e735]: "Chetan: s"
+                          - 'option "nghnghnn nghnghnn 9/15 04:11 PM Expand Chetan Chetan: checkng" [ref=f5e736] [cursor=pointer]':
+                            - generic [ref=f5e737]:
+                              - img "nghnghnn" [ref=f5e739]
+                              - generic [ref=f5e746]:
+                                - generic [ref=f5e747]:
+                                  - generic [ref=f5e748]: nghnghnn
+                                  - generic [ref=f5e749]:
+                                    - time: 9/15 04:11 PM
+                                    - generic:
+                                      - button "Expand"
+                                - generic [ref=f5e751]:
+                                  - img "Chetan" [ref=f5e752]:
+                                    - generic [aria-hidden] [ref=f5e754]: C
+                                  - generic [ref=f5e756]: "Chetan: checkng"
+                          - button "+2 more" [ref=f5e757] [cursor=pointer]
+                - button "New conversation" [ref=f5e53] [cursor=pointer]
+              - list "Channels" [ref=f5e60]:
+                - listitem [ref=f5e61]:
+                  - strong [ref=f5e63] [cursor=pointer]: DH-HUB
+                - listitem [ref=f5e64]:
+                  - strong [ref=f5e66] [cursor=pointer]: Yoodle test
+                - listitem [ref=f5e67]:
+                  - strong [ref=f5e69] [cursor=pointer]: Yoodle
+              - generic [ref=f5e71]:
+                - heading [level=2] [ref=f5e72]:
+                  - button "Anil's Activities" [expanded] [ref=f5e73] [cursor=pointer]
+                - list "Anil's Activities" [ref=f5e79]:
+                  - listitem [ref=f5e80]:
+                    - button "Open business media for this channel" [ref=f5e82] [cursor=pointer]:
+                      - generic [ref=f5e92]: Business Media
+              - generic [ref=f5e93]:
+                - generic [ref=f5e94]:
+                  - group "Conversation filters" [ref=f5e95]:
+                    - button "All" [pressed] [ref=f5e97] [cursor=pointer]
+                    - button "Chats" [ref=f5e99] [cursor=pointer]
+                    - button "Threads" [ref=f5e101] [cursor=pointer]
+                    - button "Favorites" [ref=f5e103] [cursor=pointer]
+                    - button "Mark all as read" [ref=f5e105] [cursor=pointer]
+                  - generic [ref=f5e111]:
+                    - button "Sections" [ref=f5e112] [cursor=pointer]
+                    - generic [aria-hidden]:
+                      - generic: Show sections
+                - status
+                - list "Conversations" [ref=f5e113]:
+                  - generic:
+                    - generic:
+                      - listitem [ref=f5e114]:
+                        - generic [ref=f5e117] [cursor=pointer]:
+                          - img "Anil, Aastha, Chethan and Gourav" [ref=f5e119]
+                          - generic [ref=f5e126]:
+                            - generic [ref=f5e127]:
+                              - generic [ref=f5e128]: Anil, Aastha, Chethan and Gourav
+                              - generic [ref=f5e129]:
+                                - generic: 03:39 PM
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e132]:
+                              - generic [ref=f5e133]: "Chethan:"
+                              - generic [ref=f5e134]: vfd
+                      - listitem [ref=f5e135]:
+                        - generic [ref=f5e138] [cursor=pointer]:
+                          - img "testing" [ref=f5e140]:
+                            - generic [ref=f5e141]: C
+                          - generic [ref=f5e144]:
+                            - generic [ref=f5e145]:
+                              - generic [ref=f5e146]: testing
+                              - generic [ref=f5e147]:
+                                - generic: 01:29 PM
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e150]:
+                              - generic [ref=f5e151]: "You:"
+                              - generic [ref=f5e152]: Thread Meeting
+                        - img "Favorite"
+                      - listitem [ref=f5e153]:
+                        - generic [ref=f5e156] [cursor=pointer]:
+                          - img "Anil Kakamari, Online" [ref=f5e158]:
+                            - generic [aria-hidden] [ref=f5e764]: AK
+                          - generic [ref=f5e162]:
+                            - generic [ref=f5e163]:
+                              - generic [ref=f5e164]: Anil Kakamari
+                              - generic [ref=f5e165]:
+                                - generic: 01:04 PM
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e166]: These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here. These are suggestions, not existing IRCTC login credentials. The username must be available, and you should use a unique password rather than the example shown here.
+                      - listitem [ref=f5e170]:
+                        - generic [ref=f5e173] [cursor=pointer]:
+                          - img "Anil, Aastha, Chethan and Gourav" [ref=f5e175]:
+                            - generic [ref=f5e176]:
+                              - generic [ref=f5e766]: A
+                              - generic [ref=f5e767]: C
+                          - generic [ref=f5e180]:
+                            - generic [ref=f5e181]:
+                              - generic [ref=f5e182]: Anil, Aastha, Chethan and Gourav
+                              - generic [ref=f5e183]:
+                                - generic: 01:00 PM
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e186]:
+                              - generic [ref=f5e187]: "Anil:"
+                              - generic [ref=f5e188]: I can suggest a username and strong password for creating a new IRCTC account.
+                      - listitem [ref=f5e189]:
+                        - generic [ref=f5e192] [cursor=pointer]:
+                          - img "Gourav Raghuwanshi, Out of office" [ref=f5e194]:
+                            - generic [aria-hidden] [ref=f5e768]: GR
+                          - generic [ref=f5e198]:
+                            - generic [ref=f5e199]:
+                              - generic [ref=f5e200]: Gourav Raghuwanshi
+                              - generic [ref=f5e201]:
+                                - generic: 12:41 PM
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e202]: Hi
+                      - listitem [ref=f5e206]:
+                        - generic [ref=f5e209] [cursor=pointer]:
+                          - img "Chethan, Swagnik, Kiev" [ref=f5e211]:
+                            - generic [ref=f5e212]:
+                              - generic [ref=f5e770]: C
+                              - generic [ref=f5e216]: K
+                          - generic [ref=f5e217]:
+                            - generic [ref=f5e218]:
+                              - generic [ref=f5e219]: Chethan, Swagnik, Kiev
+                              - generic [ref=f5e220]:
+                                - generic: Mon
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e223]:
+                              - generic [ref=f5e224]: "Chethan:"
+                              - generic [ref=f5e225]: vdfv
+                      - listitem [ref=f5e226]:
+                        - generic [ref=f5e229] [cursor=pointer]:
+                          - img "Ajith Perumal, Offline" [ref=f5e231]:
+                            - generic [aria-hidden] [ref=f5e771]: AP
+                          - generic [ref=f5e235]:
+                            - generic [ref=f5e236]:
+                              - generic [ref=f5e237]: Ajith Perumal
+                              - generic [ref=f5e238]:
+                                - generic: Mon
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e239]: Ajith we need some time now
+                      - listitem [ref=f5e243]:
+                        - generic [ref=f5e246] [cursor=pointer]:
+                          - img "nghnghnn" [ref=f5e248]:
+                            - generic [ref=f5e249]: C
+                          - generic [ref=f5e253]:
+                            - generic [ref=f5e254]:
+                              - generic [ref=f5e255]: nghnghnn
+                              - generic [ref=f5e256]:
+                                - generic: Mon
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e259]:
+                              - generic [ref=f5e260]: "You:"
+                              - generic [ref=f5e261]: Gourav joke
+                      - listitem [ref=f5e262]:
+                        - generic [ref=f5e265] [cursor=pointer]:
+                          - img "New thread" [ref=f5e267]
+                          - generic [ref=f5e274]:
+                            - generic [ref=f5e275]:
+                              - generic [ref=f5e276]: New thread
+                              - generic [ref=f5e277]:
+                                - generic: Mon
+                                - generic:
+                                  - generic:
+                                    - button "Expand"
+                                    - generic [aria-hidden]:
+                                      - generic: Expand
+                                  - generic:
+                                    - button "More options"
+                                    - generic [aria-hidden]:
+                                      - generic: More options
+                            - generic [ref=f5e280]:
+                              - generic [ref=f5e281]: "Sagar:"
+                              - generic [ref=f5e282]: ihbwdCOUWDHCIUBJWDC
+                      - listitem [ref=f5e283]:
+                        - generic [ref=f5e286] [cursor=pointer]:
+                          - img "Swagnik Som and Anil Kakamari" [ref=f5e288]
+                          - generic [ref=f5e296]:
+                            - generic [ref=f5e297]: Swagnik Som and Anil Kakamari
+                            - generic [ref=f5e298]:
+                              - generic: Thu
+                              - generic:
+                                - generic:
+                                  - button "Expand"
+                                  - generic [aria-hidden]:
+                                    - generic: Expand
+                                - generic:
+                                  - button "More options"
+                                  - generic [aria-hidden]:
+                                    - generic: More options
+            - generic [ref=f5e299]:
+              - separator "Resize panels" [ref=f5e300]
+              - button "Open companion panel" [ref=f5e302] [cursor=pointer]
+            - region "Conversation area" [ref=f5e308]:
+              - generic [ref=f5e309]:
+                - button "Maximize" [ref=f5e311] [cursor=pointer]
+                - generic [ref=f5e317]:
+                  - tablist "Open tabs" [ref=f5e774]:
+                    - tab "Chethan, Swagnik, Kiev Chethan, Swagnik, Kiev" [selected] [ref=f5e775] [cursor=pointer]:
+                      - generic "Chethan, Swagnik, Kiev" [ref=f5e778]:
+                        - img "Chethan, Swagnik, Kiev" [ref=f5e779]:
+                          - generic [ref=f5e780]:
+                            - generic [ref=f5e783]: C
+                            - generic [ref=f5e785]: K
+                      - button [aria-hidden]
+                    - tab "Ajith Perumal Ajith Perumal" [ref=f5e787] [cursor=pointer]:
+                      - generic "Ajith Perumal" [ref=f5e790]:
+                        - img "Ajith Perumal" [ref=f5e791]:
+                          - generic [aria-hidden] [ref=f5e793]: AP
+                      - button [aria-hidden]
+                    - tab "Swagnik Som Swagnik Som" [ref=f5e796] [cursor=pointer]:
+                      - generic "Swagnik Som" [ref=f5e799]:
+                        - img "Swagnik Som" [ref=f5e800]:
+                          - generic [aria-hidden] [ref=f5e802]: SS
+                      - button [aria-hidden]
+                    - tab "New thread New thread" [ref=f5e805] [cursor=pointer]:
+                      - generic "New thread" [ref=f5e808]:
+                        - img "New thread" [ref=f5e809]
+                      - button [aria-hidden]
+                  - button "New Tab" [ref=f5e318] [cursor=pointer]
+                  - button "See More" [ref=f5e817] [cursor=pointer]
+                  - button "Tab options" [ref=f5e820] [cursor=pointer]
+              - generic [ref=f5e825]:
+                - generic [ref=f5e826]:
+                  - generic [ref=f5e827]:
+                    - generic [ref=f5e828]:
+                      - generic [ref=f5e829]:
+                        - img "Chethan, Swagnik, Kiev" [ref=f5e830]:
+                          - generic [ref=f5e831]:
+                            - generic [ref=f5e834]: C
+                            - generic [ref=f5e836]: K
+                        - button "Change conversation icon" [ref=f5e837] [cursor=pointer]
+                      - generic [ref=f5e843]:
+                        - heading "Chethan, Swagnik, Kiev" [level=2] [ref=f5e844]
+                        - button "Rename conversation"
+                      - generic [ref=f5e845]:
+                        - button "Audio call" [ref=f5e846] [cursor=pointer]
+                        - button "Media in this chat" [ref=f5e851] [cursor=pointer]
+                        - button "Search this conversation" [ref=f5e856] [cursor=pointer]
+                        - button "Filter messages" [ref=f5e862] [cursor=pointer]
+                        - 'button "Participants: 5" [ref=f5e867] [cursor=pointer]'
+                        - button "Conversation actions" [ref=f5e873] [cursor=pointer]
+                    - text: Search this conversation
+                    - generic:
+                      - generic:
+                        - button [pressed]:
+                          - generic: All
+                        - button:
+                          - generic: Topic Threads
+                        - button:
+                          - generic: Mentions
+                        - button:
+                          - generic: Microapps
+                        - button:
+                          - generic: Captions
+                        - button:
+                          - generic: Nofies
+                        - button:
+                          - generic: Privates
+                        - button:
+                          - generic: Recording
+                      - button
+                    - status
+                  - status
+                  - status [ref=f5e878]
+                  - log "Messages" [ref=f5e879]:
+                    - generic:
+                      - generic:
+                        - generic [ref=f5e880]:
+                          - separator [ref=f5e881]:
+                            - generic [ref=f5e882]: Monday, October 05, 2026
+                          - status [ref=f5e883]:
+                            - generic [ref=f5e884]: Chethan G added Ajith Perumal
+                        - generic [ref=f5e885]:
+                          - separator [ref=f5e886]:
+                            - generic [ref=f5e887]: Thursday, October 08, 2026
+                          - generic [ref=f5e888]:
+                            - img "Kiev Mendoza, Out of office" [ref=f5e890]:
+                              - generic [aria-hidden] [ref=f5e892]: KM
+                            - generic [ref=f5e895]:
+                              - generic [ref=f5e896]:
+                                - generic [ref=f5e897]: Kiev Mendoza
+                                - generic [ref=f5e898]: 10/8 5:38 AM
+                              - generic [ref=f5e899]: test21
+                              - main [ref=f5e907]:
+                                - generic [ref=f5e908]:
+                                  - generic [ref=f5e909]: 10/12 5:53 PM
+                                  - generic [ref=f5e913]:
+                                    - generic [ref=f5e914]:
+                                      - article "Chethan G" [ref=f5e916]:
+                                        - generic [ref=f5e917]: CG
+                                      - generic [ref=f5e920]: "Chethan G.:"
+                                    - generic [ref=f5e921]: jjjjjjjjjjjjjjjjjjjjjj
+                                - button "Q" [ref=f5e922]
+                                - article [ref=f5e926]:
+                                  - generic:
+                                    - article
+                              - generic:
+                                - generic:
+                                  - toolbar "Quick reactions":
+                                    - button "Thumbs Up"
+                                    - button "Red Heart"
+                                    - button "Face With Open Mouth"
+                                    - button "Grinning Face With Smiling Eyes"
+                                    - button "Party Popper"
+                                    - button "More reactions"
+                                - button "Comment"
+                                - button "Message options"
+                            - button "Reply to Kiev Mendoza"
+                        - generic [ref=f5e927]: Message deleted
+                        - generic [ref=f5e936]:
+                          - img "Chethan G, Out of office" [ref=f5e938]:
+                            - generic [aria-hidden] [ref=f5e940]: CG
+                          - generic [ref=f5e943]:
+                            - generic [ref=f5e944]:
+                              - generic [ref=f5e945]: Chethan G
+                              - generic [ref=f5e946]: 10/8 3:43 PM
+                            - generic [ref=f5e947]: vdfvdfvdfv
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e950]: Message deleted
+                        - generic [ref=f5e959]:
+                          - img "Swagnik Som, Offline" [ref=f5e961]:
+                            - generic [aria-hidden] [ref=f5e963]: SS
+                          - generic [ref=f5e966]:
+                            - generic [ref=f5e967]:
+                              - generic [ref=f5e968]: Swagnik Som
+                              - generic [ref=f5e969]: 10/8 10:12 PM
+                            - generic [ref=f5e970]: vfd
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Swagnik Som"
+                        - generic [ref=f5e974]:
+                          - generic [ref=f5e975]:
+                            - generic [ref=f5e976]: vdfv
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Swagnik Som"
+                        - generic [ref=f5e980]:
+                          - generic [ref=f5e981]:
+                            - generic [ref=f5e982]: fvfdv
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Swagnik Som"
+                        - generic [ref=f5e986]:
+                          - generic [ref=f5e987]:
+                            - generic [ref=f5e988]: vdf
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Swagnik Som"
+                        - generic [ref=f5e991]:
+                          - separator [ref=f5e992]:
+                            - generic [ref=f5e993]: Friday, October 09, 2026
+                          - generic [ref=f5e994]:
+                            - img "Chethan G, Out of office" [ref=f5e996]:
+                              - generic [aria-hidden] [ref=f5e998]: CG
+                            - generic [ref=f5e1001]:
+                              - generic [ref=f5e1002]:
+                                - generic [ref=f5e1003]: Chethan G
+                                - generic [ref=f5e1004]: 10/9 4:56 PM
+                              - generic [ref=f5e1005]: grtgrtgrtgrtgtr
+                              - generic:
+                                - generic:
+                                  - toolbar "Quick reactions":
+                                    - button "Thumbs Up"
+                                    - button "Red Heart"
+                                    - button "Face With Open Mouth"
+                                    - button "Grinning Face With Smiling Eyes"
+                                    - button "Party Popper"
+                                    - button "More reactions"
+                                - button "Comment"
+                                - button "Message options"
+                            - button "Reply to Chethan G"
+                        - generic [ref=f5e1009]:
+                          - generic [ref=f5e1010]:
+                            - generic [ref=f5e1011]: grtgrtgrtgrtgrtgrt
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1015]:
+                          - generic [ref=f5e1016]:
+                            - generic [ref=f5e1017]: grtgrtg
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1021]:
+                          - generic [ref=f5e1022]:
+                            - generic [ref=f5e1023]: rtgrtg
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1027]:
+                          - generic [ref=f5e1028]:
+                            - generic [ref=f5e1029]: rtgrtg
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1033]:
+                          - generic [ref=f5e1034]:
+                            - generic [ref=f5e1035]: trgrt
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1039]:
+                          - generic [ref=f5e1040]:
+                            - generic [ref=f5e1041]: gtg
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1045]:
+                          - generic [ref=f5e1046]:
+                            - generic [ref=f5e1047]: rtgrt
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1051]:
+                          - generic [ref=f5e1052]:
+                            - generic [ref=f5e1053]: grtg
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1057]:
+                          - img "Kiev Mendoza, Out of office" [ref=f5e1059]:
+                            - generic [aria-hidden] [ref=f5e1061]: KM
+                          - generic [ref=f5e1064]:
+                            - generic [ref=f5e1065]:
+                              - generic [ref=f5e1066]: Kiev Mendoza
+                              - generic [ref=f5e1067]: 10/9 5:36 PM
+                            - generic [ref=f5e1068]: adad
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Kiev Mendoza"
+                        - generic [ref=f5e1072]:
+                          - generic [ref=f5e1073]:
+                            - generic [ref=f5e1074]: "1111"
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Kiev Mendoza"
+                        - generic [ref=f5e1078]:
+                          - generic [ref=f5e1079]:
+                            - generic [ref=f5e1080]: "11111"
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Kiev Mendoza"
+                        - generic [ref=f5e1084]:
+                          - generic [ref=f5e1085]:
+                            - generic [ref=f5e1086]: adad
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Kiev Mendoza"
+                        - generic [ref=f5e1091]:
+                          - generic [ref=f5e1092]: 10/9 8:06 PM
+                          - generic [ref=f5e1094]: ydscvd]
+                          - status "Sent" [ref=f5e1098]
+                          - generic:
+                            - generic:
+                              - toolbar "Quick reactions":
+                                - button "Thumbs Up"
+                                - button "Red Heart"
+                                - button "Face With Open Mouth"
+                                - button "Grinning Face With Smiling Eyes"
+                                - button "Party Popper"
+                                - button "More reactions"
+                            - button "Edit"
+                            - button "Message options"
+                        - generic [ref=f5e1109]: Message deleted
+                        - generic [ref=f5e1119]:
+                          - generic [ref=f5e1120]: 10/9 8:06 PM
+                          - generic [ref=f5e1122]: vdsvds
+                          - generic [ref=f5e1125]:
+                            - toolbar "Reactions" [ref=f5e1127]:
+                              - button "Face With Open Mouth, 1 — Chethan G" [ref=f5e1128] [cursor=pointer]:
+                                - generic [ref=f5e1132]: "1"
+                            - status "Sent" [ref=f5e1134]
+                          - generic:
+                            - generic:
+                              - toolbar "Quick reactions":
+                                - button "Thumbs Up"
+                                - button "Red Heart"
+                                - button "Face With Open Mouth"
+                                - button "Grinning Face With Smiling Eyes"
+                                - button "Party Popper"
+                                - button "More reactions"
+                            - button "Edit"
+                            - button "Message options"
+                        - generic [ref=f5e1145]:
+                          - separator [ref=f5e1146]:
+                            - generic [ref=f5e1147]: Monday, October 12, 2026
+                          - generic [ref=f5e1149]:
+                            - generic [ref=f5e1150]: 10/12 5:22 PM
+                            - generic [ref=f5e1152]:
+                              - paragraph [ref=f5e1153]:
+                                - generic [ref=f5e1158]: Private
+                              - generic [ref=f5e1160]:
+                                - generic [ref=f5e1161] [cursor=pointer]: Ajith
+                                - text: we need some time now
+                            - status "Sent" [ref=f5e1164]
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Edit"
+                              - button "Message options"
+                        - status [ref=f5e1176]:
+                          - generic [ref=f5e1182]:
+                            - generic [ref=f5e1183]:
+                              - generic [ref=f5e1184]: Kiev Mendoza — Inline Update
+                              - generic [ref=f5e1185]:
+                                - button "Message options"
+                                - button "Redirect to original message" [ref=f5e1186] [cursor=pointer]
+                                - button "Open the comments" [ref=f5e1192] [cursor=pointer]: "1"
+                            - generic [ref=f5e1193]:
+                              - generic [ref=f5e1194]: test21
+                              - main [ref=f5e1201]:
+                                - generic [ref=f5e1202]:
+                                  - generic [ref=f5e1203]: 10/12 5:53 PM
+                                  - generic [ref=f5e1207]:
+                                    - generic [ref=f5e1208]:
+                                      - article "Chethan G" [ref=f5e1210]:
+                                        - generic [ref=f5e1211]: CG
+                                      - generic [ref=f5e1214]: "Chethan G.:"
+                                    - generic [ref=f5e1215]: jjjjjjjjjjjjjjjjjjjjjj
+                                - button "Q" [ref=f5e1216]
+                                - article [ref=f5e1220]:
+                                  - generic:
+                                    - article
+                        - generic [ref=f5e1222]:
+                          - img "Chethan G, Out of office" [ref=f5e1224]:
+                            - generic [aria-hidden] [ref=f5e1226]: CG
+                          - generic [ref=f5e1229]:
+                            - generic [ref=f5e1230]:
+                              - generic [ref=f5e1231]: Chethan G
+                              - generic [ref=f5e1232]: 10/12 6:40 PM
+                            - generic [ref=f5e1233]: vdfv
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1237]:
+                          - generic [ref=f5e1238]:
+                            - generic [ref=f5e1239]: fvdfvdf
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                        - generic [ref=f5e1243]:
+                          - generic [ref=f5e1244]:
+                            - generic [ref=f5e1245]: vdfv
+                            - generic:
+                              - generic:
+                                - toolbar "Quick reactions":
+                                  - button "Thumbs Up"
+                                  - button "Red Heart"
+                                  - button "Face With Open Mouth"
+                                  - button "Grinning Face With Smiling Eyes"
+                                  - button "Party Popper"
+                                  - button "More reactions"
+                              - button "Comment"
+                              - button "Message options"
+                          - button "Reply to Chethan G"
+                  - status
+                - generic [ref=f5e1248]:
+                  - status [ref=f5e1249]
+                  - textbox "Write your message…" [ref=f5e1251]
+                  - status
+                  - generic [ref=f5e1253]:
+                    - button "Popout" [ref=f5e1254] [cursor=pointer]
+                    - button "Take Nofie" [ref=f5e1259] [cursor=pointer]
+                    - button "Task" [ref=f5e1264] [cursor=pointer]
+                    - button "Emoji, GIFs and stickers" [ref=f5e1269] [cursor=pointer]
+                    - button [ref=f5e1275] [cursor=pointer]:
+                      - img "Attach files" [ref=f5e1276]
+                    - button [aria-hidden] [ref=f5e1280]
+                    - button [disabled] [ref=f5e1281]:
+                      - img "Send" [ref=f5e1282]
+                - generic [aria-hidden]:
+                  - status
+    - log "Notifications"
+  - status [ref=f5e1286]
+  - status [ref=f5e1287]

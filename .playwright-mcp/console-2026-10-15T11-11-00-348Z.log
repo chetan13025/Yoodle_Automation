@@ -1,0 +1,97 @@
+[     347ms] [INFO] Executing inline event handler violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://dev.ss.set.digitalharbor.us/yoodle-new/secure/chat:15
+[     825ms] [LOG] No root level config provided, setting default configs... @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-76WCECBV.js:45
+[     825ms] [LOG] %c Social-Tags-Core v0.8.12-HF6 color: violet; border: 2px solid violet; border-radius: 5px; padding: 2.2px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-76WCECBV.js:45
+[     845ms] [LOG] %c@set/tap-commons v0.8.13-1 color: brown; border: 2px solid brown; border-radius: 5px; padding: 2.5px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-76WCECBV.js:64
+[     855ms] [LOG] %c@set/tap-user-tags-plugin v0.8.13-6 color: white; border: 2px solid white; border-radius: 5px; padding: 2.5px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-7CZ2RC57.js:52
+[     856ms] [LOG] Setting Tags Config file... @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-76WCECBV.js:45
+[     939ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[     939ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[     940ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/59fa67af-3bee-49c8-a567-c79a43c9d102:0
+[     940ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[     964ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[     964ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/59fa67af-3bee-49c8-a567-c79a43c9d102:0
+[    1012ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    1018ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    1078ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/undefined:0
+[    1109ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[    1161ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    1289ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[    1297ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/59fa67af-3bee-49c8-a567-c79a43c9d102:0
+[    1609ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/set/socialServices/appBrowser/resourceGraphs/search/findByResourceId?resourceId=host%3ASOCIAL_CHAT_STANDALONE_dev.ss.set.digitalharbor.us%3A67c508f487c64d7bef169930:0
+[    1866ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[    1866ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    1867ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/f3860493-986d-4e55-a6bd-dc07ed962f71:0
+[    1867ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/59fa67af-3bee-49c8-a567-c79a43c9d102:0
+[    1867ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    1922ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    2014ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    2107ms] [LOG] %c@set/tap-reference-tags-plugin v0.8.13 color: red; border: 2px solid red; border-radius: 5px; padding: 2.5px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-3TAG324N.js:6
+[    2108ms] [LOG] %c@set/tap-reference-tags-custom-components v0.8.13 color: violet; border: 2px solid violet; border-radius: 5px; padding: 2.5px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-K5OHZ2GO.js:11
+[    2114ms] [LOG] %c@set/tap-topic-tags-plugin v0.8.13-1 color: skyblue; border: 2px solid skyblue; border-radius: 5px; padding: 2.5px 10px; font-size: large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-DTJWIDNT.js:6
+[    2119ms] [LOG] %cStarting Social Text v3.0.5 - Wed, 09 Sep 2026 18:59:31 GMT,     press <Ctrl><Space> for debugging options. color: green; border: 2px solid green; border-radius: 5px; padding: 5px 10px; font-size: x-large; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6627
+[    2132ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/https://graph.microsoft.com/v1.0/me/photo/$value:0
+[    2289ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/fonts/third-party/poppins-regular.woff2:0
+[    2304ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    2382ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/https://graph.microsoft.com/v1.0/me/photo/$value:0
+[    2459ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://dev.ss.set.digitalharbor.us/yoodle-new/fonts/ssjs-icon/ssjs-font.woff @ https://dev.ss.set.digitalharbor.us/yoodle-new/secure/chat:0
+[    2474ms] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new y (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:7528:1151)
+    at K.attachWatcherToInstance (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:28026)
+    at K.handleAddedElements (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:25564)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:24878)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:1789:97007)
+    at u.invoke (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:6501)
+    at N.runGuarded (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:1901)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:1680)
+[    2477ms] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at new y (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:7528:1151)
+    at K.attachWatcherToInstance (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:28026)
+    at K.handleAddedElements (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:25564)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:6628:24878)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:1789:97007)
+    at u.invoke (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:6501)
+    at N.runGuarded (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:1901)
+    at MutationObserver.<anonymous> (https://dev.ss.set.digitalharbor.us/yoodle-new/polyfills-DKMOWGBL.js:1:1680)
+[    2505ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/ea29554b-87d1-444d-8c32-a21084ab558c:0
+[    2516ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    2516ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/undefined:0
+[    2593ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    2610ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/ea29554b-87d1-444d-8c32-a21084ab558c:0
+[    2628ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/fusion-tags/mostUsed/hashtags/500:0
+[    2698ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/a5da9798-3dbc-4f7a-bf30-399b2702020a:0
+[    2820ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/https://graph.microsoft.com/v1.0/me/photo/$value:0
+[    2856ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/ea29554b-87d1-444d-8c32-a21084ab558c:0
+[    3146ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    3147ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/f3860493-986d-4e55-a6bd-dc07ed962f71:0
+[    3150ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/59fa67af-3bee-49c8-a567-c79a43c9d102:0
+[    3162ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/cd4b4751-63ef-4092-9412-13c725a306bc:0
+[    3162ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[    3162ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/fonts/ssjs-icon/ssjs-font.woff:0
+[    3162ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://dev.ss.set.digitalharbor.us/yoodle-new/fonts/ssjs-icon/ssjs-font.ttf @ https://dev.ss.set.digitalharbor.us/yoodle-new/secure/chat:0
+[    3175ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/fonts/ssjs-icon/ssjs-font.ttf:0
+[   16147ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   16148ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[   16280ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   16291ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[   16431ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[   16754ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/67193d4c-d045-4af3-9215-4228d41dbed3:0
+[   16755ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/f3860493-986d-4e55-a6bd-dc07ed962f71:0
+[   16758ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   20798ms] [ERROR] Failed to load resource: the server responded with a status of 504 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/set/socialServices/mood/emojis?page=0&size=120&sort=name,asc:0
+[   24963ms] [INFO] Autofocus processing was blocked because a document already has a focused element. @ https://dev.ss.set.digitalharbor.us/yoodle-new/secure/chat:0
+[   25247ms] [ERROR] TextParser.insert: ignoring insertion at a non-finite offset undefined @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:7008
+[   25312ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   25350ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   25572ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   25651ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/undefined:0
+[   25654ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   38510ms] [ERROR] %cchat-composer-editor-3.innerHTML violation: setting Element.innerHTML directly not allowed in Social Text! To fix, use textParser.setInnerHtml or textParser.setExportHtml color: red; border: 2px solid red; border-radius: 1px; padding: 5px 10px; @ https://dev.ss.set.digitalharbor.us/yoodle-new/chunk-SQEGNQ3Z.js:7023
+[   38818ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://dev.ss.set.digitalharbor.us/yoodle-new/assets/matee-fonts/CherryBombOne-Regular.woff2 @ https://dev.ss.set.digitalharbor.us/yoodle-new/secure/chat:0
+[   41293ms] [ERROR] Failed to load resource: the server responded with a status of 504 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/set/socialServices/mood/emojis?page=0&size=120&sort=name,asc:0
+[   61852ms] [ERROR] Failed to load resource: the server responded with a status of 504 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/set/socialServices/mood/emojis?page=0&size=120&sort=name,asc:0
+[   76614ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   76651ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   77050ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/327a39e2-15df-484a-8129-da9faa247985:0
+[   77163ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://dev.ss.set.digitalharbor.us/yoodle-new/dms-service/dms/undefined:0
